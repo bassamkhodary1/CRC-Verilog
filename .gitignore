@@ -1,0 +1,98 @@
+# =========================================================
+# ModelSim / QuestaSim
+# =========================================================
+
+# Compiled simulation library
+work/
+
+# Waveform database
+*.wlf
+
+# ModelSim transcript
+transcript
+
+# Log files
+*.log
+
+# ModelSim generated files
+*.mpf
+*.mti
+*.bak
+
+
+# =========================================================
+# Verilog / Simulation Generated Files
+# =========================================================
+
+# Compiled libraries
+*.lib
+*.dll
+
+# Waveform / dump files
+*.vcd
+*.vpd
+*.fsdb
+
+# Coverage databases
+*.ucdb
+
+
+# =========================================================
+# Vivado Generated Files
+# =========================================================
+
+# Vivado project generated directories
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.gen/
+.xpr
+.runs/
+
+# Vivado generated files
+*.jou
+*.str
+*.pb
+*.wdb
+
+
+# =========================================================
+# Quartus Generated Files
+# =========================================================
+
+db/
+incremental_db/
+*.qws
+*.qdb
+*.smsg
+*.rpt
+*.summary
+
+
+# =========================================================
+# VS Code / IDE
+# =========================================================
+
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+
+# =========================================================
+# OS Generated Files
+# =========================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+work/
+*.wlf
+transcript
+*.mti
+*.mpf
